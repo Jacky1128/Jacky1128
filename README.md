@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my GitHub!
 
-Greetings! I am Ze Dong WANG, a first-year CSE PhD student at HKUST. 
+Greetings! I am Zedong WANG (Jacky), a first-year CSE PhD student at HKUST. 
 - 🎓 **Research Interests:** Computer Vision and Efficient Multi-Task Learning.
 - 📑 **Selected Works:** [BOCB (arXiv'24)](https://huggingface.co/ZedongWangAI), [MogaNet (ICLR'24)](https://arxiv.org/abs/2211.03295), [VQDNA (ICML'24)](https://arxiv.org/abs/2405.10812), [OpenMixup (arXiv'22)](https://arxiv.org/abs/2209.04851).
 - 🏅 **Selected Honors:** Outstanding Reviewer at **ECCV‘24 (2.7%)**, **MM’24 (139/X)**, and **BMVC‘24 (19.3%)**.
