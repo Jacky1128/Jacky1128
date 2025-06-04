@@ -6,5 +6,5 @@ Greetings! I am Zedong WANG (Jacky), a first-year CSE PhD student at HKUST.
 - 🏅 **Awards:** Outstanding/Notable Reviewer at **ICLR‘25**, **ECCV‘24**, **MM’24**, **BMVC‘24**.
 - 🌍 **About Me:** [[Google Scholar](https://scholar.google.com/citations?hl=en&user=CEJ4pugAAAAJ)] [[Twitter (X)](https://x.com/ZedongWangAI)] [[Hugging Face](https://huggingface.co/ZedongWangAI)].
 - 🔍 **Reach Me:** Email: zedong.wang@connect.ust.hk, or zwangmw@cse.ust.hk.
-- 🤝 Discussions are welcome for: (i) multi-task & multi-modal learning and (ii) optimizers in the era of LLMs.
+- 🤝 Discussions are welcome for: (i) Multi-task Learning and (ii) LLM optimizers.
 <div align="center">
