@@ -10,8 +10,6 @@ Greetings! I am Zedong WANG (Jacky), a first-year CSE PhD student at HKUST.
 
 <div align="center">
 
-<!-- Terminal Style Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=%24+python+train_model.py+--epochs+1000;Training+started...+%E2%9C%85;Epoch+1000%2F1000+-+loss%3A+0.0001+-+acc%3A+99.9%25;Model+saved+successfully!+%F0%9F%8E%89;%24+tensorboard+--logdir%3Dlogs;TensorBoard+serving+at+localhost%3A6006;%24+git+push+origin+main;Everything+up-to-date+%E2%9C%A8" alt="Terminal" />
 
 
 <!-- MASTERPIECE ANIMATION CANVAS -->
