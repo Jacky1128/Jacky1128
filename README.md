@@ -1,68 +1,110 @@
-## Hi, I'm **Zedong WANG** (Jacky) 👋
+# 👋 Hi, I'm **Zedong WANG** (Jacky)
 
-**PhD Student in Computer Science & Engineering @ HKUST**
+<img align="right" src="https://komarev.com/ghpvc/?username=jacky1128&color=0969da&style=flat-square&label=Profile+Views" />
 
-> *Focused on Deep Learning, Computer Vision, and Efficient Multi-task Learning*
+**🎓 PhD Student in Computer Science & Engineering @ HKUST**
+
+*Focused on Deep Learning, Computer Vision, and Efficient Multi-task Learning*
+
+<br>
 
 ---
 
 ## 🏆 **Featured Publications**
 
+<table>
+<tr>
+<td width="300px">
+<strong>Rep-MTL</strong><br>
+<em>ICCV 2025</em><br>
+🌟 <strong>Highlight Paper</strong>
+</td>
+<td width="300px">
+<strong>MergeVQ</strong><br>
+<em>CVPR 2025</em><br>
+✅ <strong>Accepted</strong>
+</td>
+<td width="300px">
+<strong>MogaNet</strong><br>
+<em>ICLR 2024</em><br>
+📄 <strong>Published</strong>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://jacky1128.github.io/RepMTL/">
+<img src="https://img.shields.io/badge/Project-Page-blue?style=flat-square&logo=github" />
+</a>
+</td>
+<td>
+<a href="https://huggingface.co/papers/2504.00999">
+<img src="https://img.shields.io/badge/Hugging-Face-yellow?style=flat-square&logo=huggingface" />
+</a>
+</td>
+<td>
+<a href="https://arxiv.org/abs/2211.03295">
+<img src="https://img.shields.io/badge/arXiv-Paper-red?style=flat-square&logo=arxiv" />
+</a>
+</td>
+</tr>
+</table>
+
+---
+
+## 🏅 **Academic Recognition**
+
+<p align="center">
+<img src="https://img.shields.io/badge/ICLR_2025-Outstanding_Reviewer-FFD700?style=for-the-badge&logo=star&logoColor=white" />
+<img src="https://img.shields.io/badge/ECCV_2024-Notable_Reviewer-C0C0C0?style=for-the-badge&logo=medal&logoColor=white" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MM_2024-Notable_Reviewer-C0C0C0?style=for-the-badge&logo=medal&logoColor=white" />
+<img src="https://img.shields.io/badge/BMVC_2024-Notable_Reviewer-C0C0C0?style=for-the-badge&logo=medal&logoColor=white" />
+</p>
+
+---
+
+## 🌐 **Connect & Follow**
+
+<p align="center">
+<a href="https://scholar.google.com/citations?hl=en&user=CEJ4pugAAAAJ">
+<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+</a>
+<a href="https://x.com/ZedongWangAI">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://huggingface.co/ZedongWangAI">
+<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" />
+</a>
+<a href="https://www.linkedin.com/in/jacky-zedong-wang/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 📬 **Contact Me**
+
+<p align="center">
+<strong>Academic Inquiries:</strong> <code>zedong.wang@connect.ust.hk</code><br>
+<strong>Research Collaboration:</strong> <code>zwangmw@cse.ust.hk</code>
+</p>
+
+<p align="center">
+<em>🤝 Open to research discussions, collaborations, and internship opportunities</em>
+</p>
+
+---
+
 <div align="center">
 
-| **Publication** | **Venue** | **Status** |
-|:---:|:---:|:---:|
-| **[Rep-MTL](https://jacky1128.github.io/RepMTL/)** | ICCV 2025 | **🌟 Highlight** |
-| **[MergeVQ](https://huggingface.co/papers/2504.00999)** | CVPR 2025 | Accepted |
-| **[MogaNet](https://arxiv.org/abs/2211.03295)** | ICLR 2024 | Published |
+### 🔬 **Research Impact**
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Deep+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+Multi-task+Learning;ICCV+Highlight+%E2%80%A2+CVPR+%E2%80%A2+ICLR+Publications;Outstanding+Reviewer+%E2%80%A2+Notable+Contributions" alt="Research Focus" />
 
----
+<br><br>
 
-## 🏅 **Recognition & Awards**
-
-<div align="center">
-
-![ICLR Badge](https://img.shields.io/badge/ICLR'25-Outstanding%20Reviewer-gold?style=for-the-badge&logo=github&logoColor=white)
-![ECCV Badge](https://img.shields.io/badge/ECCV'24-Notable%20Reviewer-silver?style=for-the-badge&logo=github&logoColor=white)
-![MM Badge](https://img.shields.io/badge/MM'24-Notable%20Reviewer-silver?style=for-the-badge&logo=github&logoColor=white)
-![BMVC Badge](https://img.shields.io/badge/BMVC'24-Notable%20Reviewer-silver?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-### 🌐 **Find Me Online**
-
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=CEJ4pugAAAAJ)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ZedongWangAI)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square&logoColor=black)](https://huggingface.co/ZedongWangAI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacky-zedong-wang/)
-
----
-
-### 📧 **Contact**
-
-- **Academic:** `zedong.wang@connect.ust.hk`
-- **Research:** `zwangmw@cse.ust.hk`
-
-*Open to research discussions, collaborations, and internship opportunities.*
-
----
-
-<div align="center">
-
-### 📊 **Research Analytics**
-
-<img src="https://github-readme-stats.vercel.app/api?username=jacky1128&show_icons=true&theme=minimal&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jacky1128&theme=minimal&hide_border=true&area=true&custom_title=Research%20Activity%20Graph" alt="Activity Graph" />
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=jacky1128&color=blue&style=flat-square&label=Profile+Views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0969da&height=60&section=footer&reversal=false&textBg=false" />
 
 </div>
