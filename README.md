@@ -6,7 +6,7 @@ Greetings! I am Zedong WANG (Jacky), a first-year CSE PhD student at HKUST.
 - 🏅 **Awards:** Outstanding Reviewer at **NLDL'26**, **BMVC'25**, **ICLR'25**, **UniReps'25**, **ECCV'24**, **MM'24**, **BMVC'24**.
 - 🌍 **About Me:** [[Homepage](https://jacky1128.github.io)] [[Google Scholar](https://scholar.google.com/citations?hl=en&user=CEJ4pugAAAAJ)] [[Twitter (X)](https://x.com/ZedongWangAI)] [[LinkedIn](https://www.linkedin.com/in/jacky-zedong-wang/)].
 - 🔍 **Reach Me:** Email: zedong.wang@connect.ust.hk, or zwangmw@cse.ust.hk.
-- 🤝 Please feel free to reach out for discussions, collaborations, or internships.
+- 🤝 Please feel free to reach out for discussions, collaborations, or research internships.
 
 <div align="center">
 
