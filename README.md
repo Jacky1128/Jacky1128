@@ -2,9 +2,8 @@
 
 Greetings! I am Zedong WANG (Jacky), a first-year CSE PhD student at HKUST. 
 - 🎓 **Research:** Deep Learning, Multi-task Learning, Multimodal Learning.
-- 📑 **Selected Works:** [Rep-MTL](https://jacky1128.github.io/RepMTL/) (ICCV'25 Highlight, Top 2.3%),  [MergeVQ](https://huggingface.co/papers/2504.00999) (CVPR'25), [SGG](https://arxiv.org/abs/2506.01049) (ACL'25), [MogaNet](https://arxiv.org/abs/2211.03295) (ICLR'24).
 - 🏅 **Awards:** Outstanding Reviewer at **NLDL'26**, **BMVC'25**, **ICLR'25**, **UniReps'25**, **ECCV'24**, **MM'24**, **BMVC'24**.
-- 🌍 **About Me:** [[Homepage](https://jacky1128.github.io)] [[Google Scholar](https://scholar.google.com/citations?hl=en&user=CEJ4pugAAAAJ)] [[Twitter (X)](https://x.com/ZedongWangAI)] [[LinkedIn](https://www.linkedin.com/in/jacky-zedong-wang/)].
+- 🌍 **About Me:** [[Google Scholar](https://scholar.google.com/citations?hl=en&user=CEJ4pugAAAAJ)] [[Twitter (X)](https://x.com/ZedongWangAI)] [[LinkedIn](https://www.linkedin.com/in/jacky-zedong-wang/)].
 - 🔍 **Reach Me:** Email: zedong.wang@connect.ust.hk, or zwangmw@cse.ust.hk.
 - 🤝 Please feel free to reach out for discussions, collaborations, or research internships.
 
